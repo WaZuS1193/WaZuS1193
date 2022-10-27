@@ -1,6 +1,12 @@
 - 👋 Hi, I’m @WaZuS1193
-- 👀 I’m interested in Web Development and Programming.
-- 🌱 I’m currently learning Web Development and python language.
+- 👀 I’m a Junior Full-stack Web Developer.
+- 🌱 I’m currently learning... 
+- 
+-         Web 3 and blockchains,
+-         python programing language,
+-         linux OS,
+-         cyber security.
+-    
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
