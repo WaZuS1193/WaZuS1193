@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @WaZuS1193
+- 👋 Hi, I’m @WaZuS
 - 👀 I’m a Junior Full-stack Web Developer.
 - 🌱 I’m currently learning... 
 - 
